@@ -240,6 +240,3 @@ The experiment also demonstrates the relationship between matrix operations and 
 
 ---
 
-## THEORY
-
-Linear algebra is an important mathematical foundation of Machine Learning.
